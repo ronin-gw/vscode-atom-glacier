@@ -1,0 +1,28 @@
+{
+  "name": "atom-glacier",
+  "displayName": "Atom Glacier",
+  "description": "Glacier theme inspired by SublimeText/Atom theme",
+  "version": "0.0.1",
+  "publisher": "a-falco",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": ["dark", "blue", "glacier"],
+  "Repository": {
+    "type": "git",
+    "url": "https://github.com/ronin-gw/vscode-atom-glacier.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atom Glacier",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Atom Glacier-color-theme.json"
+      }
+    ]
+  }
+}
