@@ -2,7 +2,7 @@
   "name": "atom-glacier",
   "displayName": "Atom Glacier",
   "description": "Glacier theme inspired by SublimeText/Atom theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "a-falco",
   "engines": {
     "vscode": "^1.77.0"
@@ -12,6 +12,11 @@
     "Themes"
   ],
   "keywords": ["dark", "blue", "glacier"],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#0a1015",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ronin-gw/vscode-atom-glacier.git"
